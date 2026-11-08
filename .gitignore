@@ -1,0 +1,7 @@
+# do not commit codeblock output folders
+bin/
+obj/
+
+# do not commit .o/.exe file
+*.o
+*.exe

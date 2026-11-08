@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1793894004 source:d:\pratham\spit\first_year\c_projects\week5_q2\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
